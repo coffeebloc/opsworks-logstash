@@ -30,7 +30,7 @@
 	url = https://github.com/opscode-cookbooks/nagios.git
 [submodule "nginx"]
 	path = nginx
-	url = https://github.com/opscode-cookbooks/nginx.git
+	url = https://github.com/coffeebloc/nginx
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/opscode-cookbooks/ntp.git
